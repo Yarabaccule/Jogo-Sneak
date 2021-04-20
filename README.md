@@ -3,8 +3,10 @@ Digital Innovetion One.
 
 Esse é o repositório da nossa aula Criando o jogo da Snake!
 
-Os requisitos são:
-HTML básico
-JavaScript básico
+### Os requisitos são:
+
+- HTML básico
+- JavaScript básico
+
 
 🚀 Let's go! 🚀 #snake
