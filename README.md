@@ -1,10 +1,10 @@
-# Olá esta é a primeira parte do curso HTML Web Developer
+# Olá esta é a terceira parte do curso HTML Web Developer
 Digital Innovetion One.
 
-Esse é o repositório da nossa aula Criando uma Cobrinha!
+Esse é o repositório da nossa aula Criando o jogo da Snake!
 
 Os requisitos são:
 HTML básico
 JavaScript básico
 
-🚀 Let's go! 🚀# snake
+🚀 Let's go! 🚀 #snake
