@@ -3,6 +3,8 @@ Digital Innovetion One.
 
 Esse é o repositório da nossa aula Criando o jogo da Snake!
 
+Prof: Gabriela Pinheiro.
+
 ### Os requisitos são:
 
 - HTML básico
